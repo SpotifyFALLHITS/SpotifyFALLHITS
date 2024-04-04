@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpotifyFALLHITS
+- 👋 Hi, I’m @Coder
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
